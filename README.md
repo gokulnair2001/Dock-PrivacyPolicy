@@ -1,4 +1,4 @@
-# Privacy Policy
+# Privacy Policy 🔒
 
 Dock is a Free iOS app. This SERVICE is provided by at no cost and is intended for use as is.
 
