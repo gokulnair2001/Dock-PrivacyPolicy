@@ -21,7 +21,7 @@ Dock uses iCloud to sync your data on your other iOS devices. In order to get iC
 
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
-## Cookies
+<!-- ## Cookies
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
@@ -37,7 +37,7 @@ We may employ third-party companies and individuals due to the following reasons
 *   To assist us in analyzing how our Service is used.
 
 I want to inform users of this Service that these third parties have no access to your Personal Information. These third party services can only use our service to enhance it, in terms of user Experience and satisfaction.
-
+-->
 ## Security
 
 We at Dock value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
